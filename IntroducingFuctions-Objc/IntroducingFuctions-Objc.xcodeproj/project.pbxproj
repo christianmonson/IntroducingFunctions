@@ -77,7 +77,6 @@
 				71E54DBD199D4989009FF939 /* AppDelegate.h */,
 				71E54DBE199D4989009FF939 /* AppDelegate.m */,
 				71E54DC0199D4989009FF939 /* Images.xcassets */,
-				71E54DB9199D4989009FF939 /* Supporting Files */,
 			);
 			path = "IntroducingFuctions-Objc";
 			sourceTree = "<group>";
@@ -89,11 +88,13 @@
 				71E54DBB199D4989009FF939 /* main.m */,
 			);
 			name = "Supporting Files";
+			path = "../IntroducingFuctions-Objc";
 			sourceTree = "<group>";
 		};
 		71E54DC9199D4989009FF939 /* IntroducingFuctions-ObjcTests */ = {
 			isa = PBXGroup;
 			children = (
+				71E54DB9199D4989009FF939 /* Supporting Files */,
 				71E54DCC199D4989009FF939 /* IntroducingFuctions_ObjcTests.m */,
 				71E54DCA199D4989009FF939 /* Supporting Files */,
 			);
@@ -380,6 +381,7 @@
 				71E54DD2199D4989009FF939 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		71E54DD3199D4989009FF939 /* Build configuration list for PBXNativeTarget "IntroducingFuctions-ObjcTests" */ = {
 			isa = XCConfigurationList;
@@ -388,6 +390,7 @@
 				71E54DD5199D4989009FF939 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
